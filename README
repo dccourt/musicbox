@@ -1,0 +1,5 @@
+A pretty decent clone of a windup music box running on an ATTiny85.
+
+Based very heavily on original code by ChaN (http://elm-chan.org/works/mxb/report.html).
+
+Modified by Fanjita, initially for compatibility with gavrasm, to add a new tune, and to add one-shot mode and an indication of when the song is playing.
